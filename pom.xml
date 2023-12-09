@@ -94,14 +94,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>Lavanya-repository-release</name>
+	      <url>http://3.39.229.252:8081/repository/lavanya-repository-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>Lavanya-repository-snapshot</name>
+	      <url>http://3.39.229.252:8081/repository/lavanya-repository-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
